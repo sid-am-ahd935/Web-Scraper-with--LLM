@@ -6,13 +6,13 @@ Discontinuing work on this project. This project was started as an attempt to co
 Please note, this project may/may not be continued. Updates will be posted as they become available.
 
 Some related articles/snippets/notebooks that I found useful:
-https://scrapingant.com/blog/web-scraping-without-getting-blocked
-https://scrapingant.com/blog/how-to-crawl-website-without-getting-blocked
-https://www.fahdmirza.com/2024/05/how-to-scrape-websites-for-free-with-ai.html?m=1
-https://eyurtsev.github.io/kor/tutorial.html
-https://github.com/sid-am-ahd935/entities-extraction-web-scraper/blob/main/ai_extractor.py
-https://colab.research.google.com/drive/1vzZAL2Zy6NS_0LzexhzsJQaxaexZWFjO?authuser=1  [from YT of same name]
-https://colab.research.google.com/drive/1oDOVdRXl4_DWH56VKwOKKCA5JxBAMYsL?authuser=1  [from a certain article]
+- https://scrapingant.com/blog/web-scraping-without-getting-blocked
+- https://scrapingant.com/blog/how-to-crawl-website-without-getting-blocked
+- https://www.fahdmirza.com/2024/05/how-to-scrape-websites-for-free-with-ai.html?m=1
+- https://eyurtsev.github.io/kor/tutorial.html
+- https://github.com/sid-am-ahd935/entities-extraction-web-scraper/blob/main/ai_extractor.py
+- https://colab.research.google.com/drive/1vzZAL2Zy6NS_0LzexhzsJQaxaexZWFjO?authuser=1  [from YT of same name]
+- https://colab.research.google.com/drive/1oDOVdRXl4_DWH56VKwOKKCA5JxBAMYsL?authuser=1  [from a certain article]
 
 ### Most successful attempt at the time
 https://colab.research.google.com/drive/1Ctkuh0Aq6sgJTV2vWfZ_N06eO6dJAPKm?authuser=1
