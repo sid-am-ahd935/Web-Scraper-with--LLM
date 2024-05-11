@@ -13,6 +13,8 @@ Some related articles/snippets/notebooks that I found useful:
 - https://github.com/sid-am-ahd935/entities-extraction-web-scraper/blob/main/ai_extractor.py
 - https://colab.research.google.com/drive/1vzZAL2Zy6NS_0LzexhzsJQaxaexZWFjO?authuser=1  [from YT of same name]
 - https://colab.research.google.com/drive/1oDOVdRXl4_DWH56VKwOKKCA5JxBAMYsL?authuser=1  [from a certain article]
+- https://huggingface.co/LLukas22/gpt4all-lora-quantized-ggjt
+- https://github.com/nomic-ai/gpt4all
 
 ### Most successful attempt at the time
 https://colab.research.google.com/drive/1Ctkuh0Aq6sgJTV2vWfZ_N06eO6dJAPKm?authuser=1
